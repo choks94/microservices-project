@@ -1,0 +1,12 @@
+com\choks\orderservice\service\OrderService.class
+com\choks\orderservice\dto\InventoryResponse.class
+com\choks\orderservice\dto\OrderLineItemsDto.class
+com\choks\orderservice\dto\OrderRequest.class
+com\choks\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\choks\orderservice\controller\OrderController.class
+com\choks\orderservice\config\WebClientConfig.class
+com\choks\orderservice\model\OrderLineItems.class
+com\choks\orderservice\repository\OrderRepository.class
+com\choks\orderservice\model\Order.class
+com\choks\orderservice\event\OrderPlacedEvent.class
+com\choks\orderservice\OrderServiceApplication.class

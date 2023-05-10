@@ -1,0 +1,10 @@
+com\choks\productservice\model\Product$ProductBuilder.class
+com\choks\productservice\repository\ProductRepository.class
+com\choks\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\choks\productservice\service\ProductService.class
+com\choks\productservice\dto\ProductRequest.class
+com\choks\productservice\model\Product.class
+com\choks\productservice\controller\ProductController.class
+com\choks\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\choks\productservice\dto\ProductResponse.class
+com\choks\productservice\ProductServiceApplication.class

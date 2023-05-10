@@ -1,0 +1,11 @@
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\repository\OrderRepository.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\model\OrderLineItems.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\event\OrderPlacedEvent.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\dto\InventoryResponse.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\model\Order.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\config\WebClientConfig.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\OrderServiceApplication.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\dto\OrderRequest.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\service\OrderService.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\controller\OrderController.java
+C:\MyWorkspace\intellij-workspace\microservices\order-service\src\main\java\com\choks\orderservice\dto\OrderLineItemsDto.java

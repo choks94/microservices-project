@@ -1,0 +1,7 @@
+com\choks\inventoryservice\controller\InventoryController.class
+com\choks\inventoryservice\dto\InventoryResponse.class
+com\choks\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\choks\inventoryservice\InventoryServiceApplication.class
+com\choks\inventoryservice\repository\InventoryRepository.class
+com\choks\inventoryservice\model\Inventory.class
+com\choks\inventoryservice\service\InventoryService.class
